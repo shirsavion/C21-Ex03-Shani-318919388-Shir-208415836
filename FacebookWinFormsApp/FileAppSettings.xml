@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastWindowsLocation>
+    <X>50</X>
+    <Y>50</Y>
+  </LastWindowsLocation>
+  <LastWindowsSize>
+    <Width>844</Width>
+    <Height>884</Height>
+  </LastWindowsSize>
+  <RememberMeUser>false</RememberMeUser>
+  <BDCards />
+</AppSettings>
